@@ -42,17 +42,6 @@ ML-powered gate control with 92% detection accuracy across 5,000+ samples. REST 
 
 ---
 
-## 📊 GitHub Activity
-
-[![Kanad's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=kanadmotiwale&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ffffff&area=true&hide_border=true)](https://github.com/kanadmotiwale)
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kanadmotiwale&show_icons=true&hide_border=true&theme=github_dark" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kanadmotiwale&theme=github-dark-blue&hide_border=true" />
-</p>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Programming Languages
