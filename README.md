@@ -13,7 +13,7 @@
 
 ## 🧑‍💻 About Me
 
-I'm a **backend engineer** who's spent **2+ years** building services that handle real traffic and don't break at 3am.
+I'm a **full-stack engineer** who's spent **2+ years** building services that handle real traffic and don't break at 3am.
 
 At **LTIMindtree**, I owned **6+ backend services and REST APIs** serving **10,000+ enterprise users** for Marsh McLennan's insurance platform. I've optimized queries that were killing production, debugged distributed systems under pressure, and learned that good logging saves lives (and weekends).
 
