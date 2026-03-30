@@ -207,7 +207,7 @@ Northeastern University, Boston - Khoury College of Computer Sciences
 *Sep 2025 - Expected May 2027*
 
 **Bachelor of Engineering - Electronics & Telecommunications** *(CGPI: 8.72/10)*  
-RAIT, DY Patil University, Mumbai  
+University of Mumbai, Mumbai  
 *Aug 2019 - May 2023*
 
 **Relevant Coursework (Grad):** Programming Design Paradigms, Database Management Systems, Web Development, Algorithms
