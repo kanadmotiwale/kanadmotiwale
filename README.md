@@ -42,8 +42,6 @@ Sponsorship marketplace for local events and small businesses — targeting the 
 ### [ClubMatch](https://github.com/kanadmotiwale/clubmatch)
 `Node.js` `Express` `MongoDB Atlas` `Vanilla JS` `HTML5` `CSS3` `bcrypt`
 
-*Co-authored with Aarya Patil · CS5610 Web Development, Northeastern University*
-
 Full-stack platform for discovering and joining student organizations at Northeastern. Students can browse/filter clubs, submit membership logs, manage profiles, and register without an account. Role-based access with admin mode. 1,100+ seeded records. Deployed on Render. [Live Demo](https://clubmatch.onrender.com)
 
 ---
@@ -51,7 +49,6 @@ Full-stack platform for discovering and joining student organizations at Northea
 ### [Expiro](https://github.com/kanadmotiwale/Expiro)
 `Node.js` `MongoDB Atlas` `JavaScript` `CSS3` `HTML`
 
-*Co-authored with Aarya Patil*
 
 Role-based inventory and expiry tracker for grocery store staff. Managers monitor stock health, track expiring products, and review waste over time. Employees get a daily pull-off-shelf view and can log waste reports on the spot. 1,000+ synthetic product records across 13 categories. [Live Demo](https://expiro-three.vercel.app/)
 
