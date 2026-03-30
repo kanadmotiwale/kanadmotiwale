@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Kanad Motiwale
+# Hi, I'm Kanad Motiwale
 
 <p align="left">
   <img src="https://img.shields.io/badge/MS%20CS-Northeastern%20University-red?style=for-the-badge" />
@@ -11,7 +11,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 I'm a **full-stack engineer** who's spent **2+ years** building services that handle real traffic and don't break at 3am.
 
@@ -23,28 +23,28 @@ Currently pursuing my **MS in Computer Science at Northeastern**, diving deeper 
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 📅 [Calendar Application](https://github.com/kanadmotiwale/Calendar-Application)
+### [Calendar Application](https://github.com/kanadmotiwale/Calendar-Application)
 `Java` `MVC Architecture` `JUnit`
 
 Scheduling system with recurring events and multi-timezone support. Clean MVC architecture, 60+ unit tests, 90%+ coverage. Handles 10,000+ records efficiently.
 
-### 🏢 Policy & Placement Management Platform
+### Policy & Placement Management Platform
 `JavaScript` `Node.js` `Angular` `PostgreSQL`
 
 Enterprise system automating insurance workflows for Marsh McLennan. Reduced manual processing by 40% and improved query performance by 35%.
 
-### 🚗 License Plate Recognition System
+### License Plate Recognition System
 `Python` `Angular` `SQL` `OpenCV`
 
 ML-powered gate control with 92% detection accuracy across 5,000+ samples. REST APIs responding in <300ms. Full pipeline — image processing to frontend.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-### 💻 Programming Languages
+### Programming Languages
 <p>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -54,7 +54,7 @@ ML-powered gate control with 92% detection accuracy across 5,000+ samples. REST 
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
 </p>
 
-### 🧩 Backend & APIs
+### Backend & APIs
 <p>
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" />
@@ -64,7 +64,7 @@ ML-powered gate control with 92% detection accuracy across 5,000+ samples. REST 
   <img src="https://img.shields.io/badge/Microservices-4B8BBE?style=flat-square" />
 </p>
 
-### 🗄️ Databases
+### Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
@@ -72,7 +72,7 @@ ML-powered gate control with 92% detection accuracy across 5,000+ samples. REST 
   <img src="https://img.shields.io/badge/DynamoDB-4053D6?style=flat-square&logo=amazondynamodb&logoColor=white" />
 </p>
 
-### ☁️ Cloud & DevOps
+### Cloud & DevOps
 <p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" />
   <img src="https://img.shields.io/badge/Lambda-FF9900?style=flat-square&logo=awslambda&logoColor=white" />
@@ -84,7 +84,7 @@ ML-powered gate control with 92% detection accuracy across 5,000+ samples. REST 
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
 </p>
 
-### 🎨 Frontend
+### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
@@ -93,7 +93,7 @@ ML-powered gate control with 92% detection accuracy across 5,000+ samples. REST 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
 </p>
 
-### 🧪 Testing & Quality
+### Testing & Quality
 <p>
   <img src="https://img.shields.io/badge/TDD-25A162?style=flat-square" />
   <img src="https://img.shields.io/badge/JUnit-25A162?style=flat-square&logo=junit5&logoColor=white" />
@@ -102,7 +102,7 @@ ML-powered gate control with 92% detection accuracy across 5,000+ samples. REST 
   <img src="https://img.shields.io/badge/90%25+%20Coverage-success?style=flat-square" />
 </p>
 
-### 🧰 Tools & Practices
+### Tools & Practices
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" />
@@ -113,26 +113,26 @@ ML-powered gate control with 92% detection accuracy across 5,000+ samples. REST 
 
 ---
 
-## 📈 Highlights
+## Highlights
 
 | What I Built | Impact |
 |--------------|--------|
-| 🏗️ Backend services & REST APIs | **10,000+** enterprise users |
-| ⚡ API performance optimization | **30%** faster (320ms → 225ms) |
-| 🔧 Production incident response | **45%** reduction in MTTR |
-| 🚀 CI/CD pipeline improvements | **35%** faster deployments |
-| 🧪 Test-driven development | **90%+** coverage, **25%** fewer defects |
-| 🚀 Co-founded startup | **5,000+** users from scratch |
+| Backend services & REST APIs | **10,000+** enterprise users |
+| API performance optimization | **30%** faster (320ms → 225ms) |
+| Production incident response | **45%** reduction in MTTR |
+| CI/CD pipeline improvements | **35%** faster deployments |
+| Test-driven development | **90%+** coverage, **25%** fewer defects |
+| Co-founded startup | **5,000+** users from scratch |
 
 ---
 
-## 🎓 Education
+## Education
 
-🎓 **Master of Science in Computer Science** *(GPA: 3.9/4.0)*  
+**Master of Science in Computer Science** *(GPA: 3.9/4.0)*  
 Northeastern University, Boston - Khoury College of Computer Sciences  
 *Sep 2025 - Expected May 2027*
 
-🎓 **Bachelor of Engineering - Electronics & Telecommunications**  
+**Bachelor of Engineering - Electronics & Telecommunications**  
 RAIT, DY Patil University, Mumbai  
 *Aug 2019 - May 2023*
 
@@ -140,15 +140,15 @@ RAIT, DY Patil University, Mumbai
 
 ---
 
-## 🏆 Beyond Code
+## Beyond Code
 
-- 🏓 **Former Captain** of RAIT Table Tennis Team
-- 🏅 **Sports Secretary** of RAIT Sports
-- 🤝 **Volunteer** at TechFest and D.Y. Patil T20 Cup
+- **Former Captain** of RAIT Table Tennis Team
+- **Sports Secretary** of RAIT Sports
+- **Volunteer** at TechFest and D.Y. Patil T20 Cup
 
 ---
 
-## 📫 Connect With Me
+## Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kanadmotiwale">
@@ -169,5 +169,5 @@ RAIT, DY Patil University, Mumbai
 </p>
 
 <p align="center">
-  ⭐ <i>Open to Software Engineer / Backend Engineer / Full-Stack Developer opportunities in the United States</i>
+  <i>Open to Software Engineer / Backend Engineer / Full-Stack Developer opportunities in the United States</i>
 </p>
