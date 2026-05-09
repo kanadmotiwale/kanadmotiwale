@@ -19,11 +19,32 @@ At **LTIMindtree**, I owned **6+ backend services and REST APIs** serving **10,0
 
 I also **co-founded FastFindFirm**, an ed-tech platform that grew to **5,000+ users**. Built everything from scratch — architecture, APIs, deployment pipelines. Nothing teaches you ownership like being on-call for something you built yourself.
 
-Currently pursuing my **MS in Computer Science at Northeastern**, diving deeper into distributed systems and system design.
+Currently pursuing my **MS in Computer Science at Northeastern**, diving deeper into distributed systems, system design, and applied AI.
 
 ---
 
 ## Featured Projects
+
+### [CodeBlood](https://github.com/kanadmotiwale/CodeBlood)
+`React` `Vite` `FastAPI` `Python` `GitHub REST API v3` `Groq API` `Llama 3.3` `Vercel` `Render`
+
+Analyzes your GitHub commit history and builds a behavioral profile of how you actually work — not how you think you work. Detects panic commits, dry spells, and burst patterns. Grades commits A–F using a multi-factor productivity model. Classifies you into one of six developer archetypes. A Groq-powered LLM reads your pattern data and writes a personalized psychological profile. [Live Demo](https://code-blood.vercel.app)
+
+---
+
+### [HUMAID Platform](https://github.com/kanadmotiwale/humaidplatform)
+`Next.js 14` `TypeScript` `Tailwind CSS` `App Router` `Claude API` `Semantic Scholar API`
+
+Research prototype supporting the HUMAID theoretical framework — studying how a single human interacts with a collection of AI agents. Participants complete a literature review task in one of two modes: a three-step **Collaborative** pipeline (sequential agent handoff) or a **Competitive** mode (three agents run in parallel, user selects the best output). Full session logging captures interaction timestamps, agent selections, edits, and confidence ratings. [Live Demo](https://humaidplatform.vercel.app) · [Research Paper](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6650059)
+
+---
+
+### [Lexorion](https://github.com/kanadmotiwale/Lexorion)
+`FastAPI` `FAISS` `Ollama` `RAG` `Llama 3.2` `nomic-embed-text` `Pydantic AI` `PyMuPDF` `SQLite` `React` `Vite`
+
+RAG-based AI knowledge assistant that lets you upload documents and have real conversations with them — no cloud AI costs, runs entirely on your machine. Parses PDFs, text, and markdown into 512-token chunks, embeds them with a local model, stores vectors in FAISS, and retrieves grounded answers with source citations and a confidence score. Includes a semantic search panel for direct chunk-level lookup. A Pydantic AI agent re-ranks results and adjusts confidence scoring.
+
+---
 
 ### [Calendar Application](https://github.com/kanadmotiwale/Calendar-Application)
 `Java` `Swing` `MVC Architecture` `JUnit` `Gradle`
@@ -48,7 +69,6 @@ Full-stack platform for discovering and joining student organizations at Northea
 
 ### [Expiro](https://github.com/kanadmotiwale/Expiro)
 `Node.js` `MongoDB Atlas` `JavaScript` `CSS3` `HTML`
-
 
 Role-based inventory and expiry tracker for grocery store staff. Managers monitor stock health, track expiring products, and review waste over time. Employees get a daily pull-off-shelf view and can log waste reports on the spot. 1,000+ synthetic product records across 13 categories. [Live Demo](https://expiro-three.vercel.app/)
 
@@ -120,6 +140,20 @@ Portfolio site built from scratch with zero frameworks. Animated skill bars, res
   <img src="https://img.shields.io/badge/Microservices-4B8BBE?style=flat-square" />
 </p>
 
+### AI & Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/RAG-8B5CF6?style=flat-square" />
+  <img src="https://img.shields.io/badge/FAISS-FF6B35?style=flat-square" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Groq%20API-F55036?style=flat-square" />
+  <img src="https://img.shields.io/badge/Claude%20API-CC785C?style=flat-square" />
+  <img src="https://img.shields.io/badge/Llama%203-0467DF?style=flat-square" />
+  <img src="https://img.shields.io/badge/Pydantic%20AI-E92063?style=flat-square" />
+  <img src="https://img.shields.io/badge/Multi--Agent%20AI-6366F1?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vector%20Embeddings-7C3AED?style=flat-square" />
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
+
 ### Databases
 <p>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
@@ -140,11 +174,13 @@ Portfolio site built from scratch with zero frameworks. Animated skill bars, res
   <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" />
   <img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=flat-square&logo=githubactions&logoColor=white" />
   <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black" />
 </p>
 
 ### Frontend
 <p>
   <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -158,7 +194,8 @@ Portfolio site built from scratch with zero frameworks. Animated skill bars, res
   <img src="https://img.shields.io/badge/RMarkdown-276DC3?style=flat-square" />
   <img src="https://img.shields.io/badge/ETL%20Pipelines-4B8BBE?style=flat-square" />
   <img src="https://img.shields.io/badge/Star%20Schema-003B57?style=flat-square" />
-  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyMuPDF-3776AB?style=flat-square" />
+  <img src="https://img.shields.io/badge/tiktoken-412991?style=flat-square" />
 </p>
 
 ### Testing & Quality
@@ -193,7 +230,10 @@ Portfolio site built from scratch with zero frameworks. Animated skill bars, res
 | Test-driven development | **90%+** coverage, **25%** fewer defects |
 | Co-founded startup | **5,000+** users from scratch |
 | ETL data pipelines | SQLite + CSV → cloud MySQL star schema |
-| Full-stack web apps | 5 deployed projects across Vercel & Render |
+| RAG knowledge assistant | Local LLM, FAISS vector search, zero cloud cost |
+| Multi-agent AI platform | Collaborative & competitive human-AI interaction modes |
+| Git behavioral profiler | Groq-powered LLM developer archetypes from commit history |
+| Full-stack web apps | 8 deployed projects across Vercel & Render |
 
 ---
 
