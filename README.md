@@ -25,10 +25,10 @@ Currently pursuing my **MS in Computer Science at Northeastern**, diving deeper 
 
 ## Featured Projects
 
-### [CodeBlood](https://github.com/kanadmotiwale/CodeBlood)
-`React` `Vite` `FastAPI` `Python` `GitHub REST API v3` `Groq API` `Llama 3.3` `Vercel` `Render`
+### [Lexorion](https://github.com/kanadmotiwale/Lexorion)
+`FastAPI` `FAISS` `Ollama` `RAG` `Llama 3.2` `nomic-embed-text` `Pydantic AI` `PyMuPDF` `SQLite` `React` `Vite`
 
-Analyzes your GitHub commit history and builds a behavioral profile of how you actually work — not how you think you work. Detects panic commits, dry spells, and burst patterns. Grades commits A–F using a multi-factor productivity model. Classifies you into one of six developer archetypes. A Groq-powered LLM reads your pattern data and writes a personalized psychological profile. [Live Demo](https://code-blood.vercel.app)
+RAG-based AI knowledge assistant that lets you upload documents and have real conversations with them — no cloud AI costs, runs entirely on your machine. Parses PDFs, text, and markdown into 512-token chunks, embeds them with a local model, stores vectors in FAISS, and retrieves grounded answers with source citations and a confidence score. Includes a semantic search panel for direct chunk-level lookup. A Pydantic AI agent re-ranks results and adjusts confidence scoring. [Live Demo](https://lexorion.vercel.app)
 
 ---
 
@@ -39,10 +39,17 @@ Research prototype supporting the HUMAID theoretical framework — studying how 
 
 ---
 
-### [Lexorion](https://github.com/kanadmotiwale/Lexorion)
-`FastAPI` `FAISS` `Ollama` `RAG` `Llama 3.2` `nomic-embed-text` `Pydantic AI` `PyMuPDF` `SQLite` `React` `Vite`
+### [SponsorFlow](https://github.com/kanadmotiwale/sponsorflow)
+`Next.js 15` `TypeScript` `PostgreSQL` `Drizzle` `NextAuth.js` `Tailwind` `shadcn/ui` `Zustand`
 
-RAG-based AI knowledge assistant that lets you upload documents and have real conversations with them — no cloud AI costs, runs entirely on your machine. Parses PDFs, text, and markdown into 512-token chunks, embeds them with a local model, stores vectors in FAISS, and retrieves grounded answers with source citations and a confidence score. Includes a semantic search panel for direct chunk-level lookup. A Pydantic AI agent re-ranks results and adjusts confidence scoring.
+Sponsorship marketplace for local events and small businesses — targeting the underserved $50–$1,000 sponsorship market. Event organizers list packages; local businesses browse, propose, and sponsor. Includes built-in messaging, contracts, reviews, and smart matching. 8-table PostgreSQL schema. Deployable on Vercel + Neon.
+
+---
+
+### [CodeBlood](https://github.com/kanadmotiwale/CodeBlood)
+`React` `Vite` `FastAPI` `Python` `GitHub REST API v3` `Groq API` `Llama 3.3` `Vercel` `Render`
+
+Analyzes your GitHub commit history and builds a behavioral profile of how you actually work — not how you think you work. Detects panic commits, dry spells, and burst patterns. Grades commits A–F using a multi-factor productivity model. Classifies you into one of six developer archetypes. A Groq-powered LLM reads your pattern data and writes a personalized psychological profile. [Live Demo](https://code-blood.vercel.app)
 
 ---
 
@@ -50,13 +57,6 @@ RAG-based AI knowledge assistant that lets you upload documents and have real co
 `Java` `Swing` `MVC Architecture` `JUnit` `Gradle`
 
 Full-featured calendar app with GUI, interactive CLI, and headless scripting modes. Supports multiple calendars across time zones, recurring events, and CSV/iCal export. Clean MVC architecture, 60+ unit tests, 90%+ coverage. Handles 10,000+ records efficiently.
-
----
-
-### [SponsorFlow](https://github.com/kanadmotiwale/sponsorflow)
-`Next.js 15` `TypeScript` `PostgreSQL` `Drizzle` `NextAuth.js` `Tailwind` `shadcn/ui` `Zustand`
-
-Sponsorship marketplace for local events and small businesses — targeting the underserved $50–$1,000 sponsorship market. Event organizers list packages; local businesses browse, propose, and sponsor. Includes built-in messaging, contracts, reviews, and smart matching. 8-table PostgreSQL schema. Deployable on Vercel + Neon.
 
 ---
 
@@ -239,7 +239,7 @@ Portfolio site built from scratch with zero frameworks. Animated skill bars, res
 
 ## Education
 
-**Master of Science in Computer Science** *(GPA: 3.9/4.0)*  
+**Master of Science in Computer Science** *(GPA: 3.92/4.0)*  
 Northeastern University, Boston - Khoury College of Computer Sciences  
 *Sep 2025 - Expected May 2027*
 
