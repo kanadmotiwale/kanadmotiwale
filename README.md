@@ -6,7 +6,7 @@
 </p>
 <p align="left">
   <img src="https://img.shields.io/badge/Ex--LTIMindtree-Software%20Engineer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Co--founder-FastFindFirm-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/SDE Intern-FastFindFirm-green?style=for-the-badge" />
 </p>
 
 ---
