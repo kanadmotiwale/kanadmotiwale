@@ -239,9 +239,9 @@ Portfolio site built from scratch with zero frameworks. Animated skill bars, res
 
 ## Education
 
-**Master of Science in Computer Science** *(GPA: 3.92/4.0)*  
+**Master of Science in Computer Science** *(GPA: 3.93/4.0)*  
 Northeastern University, Boston - Khoury College of Computer Sciences  
-*Sep 2025 - Expected May 2027*
+*Sep 2025 - Expected Dec 2027*
 
 **Bachelor of Engineering - Electronics & Telecommunications** *(CGPI: 8.72/10)*  
 University of Mumbai, Mumbai  
