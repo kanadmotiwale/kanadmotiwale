@@ -17,7 +17,7 @@ I'm a **full-stack engineer** who's spent **2+ years** building services that ha
 
 At **LTIMindtree**, I owned **6+ backend services and REST APIs** serving **10,000+ enterprise users** for Marsh McLennan's insurance platform. I've optimized queries that were killing production, debugged distributed systems under pressure, and learned that good logging saves lives (and weekends).
 
-I also **co-founded FastFindFirm**, an ed-tech platform that grew to **5,000+ users**. Built everything from scratch — architecture, APIs, deployment pipelines. Nothing teaches you ownership like being on-call for something you built yourself.
+I also worked as a SDE Intern at FastFindFirm**, an ed-tech platform that grew to **5,000+ users**. Built everything from scratch — architecture, APIs, deployment pipelines. Nothing teaches you ownership like being on-call for something you built yourself.
 
 Currently pursuing my **MS in Computer Science at Northeastern**, diving deeper into distributed systems, system design, and applied AI.
 
